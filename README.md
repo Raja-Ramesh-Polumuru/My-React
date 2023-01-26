@@ -1,2 +1,2 @@
-# My-React-1
+# My-React
 Created with CodeSandbox
